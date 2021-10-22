@@ -1,0 +1,5 @@
+com\sharebooks\SharebooksApplication.class
+com\sharebooks\models\UsuarisModel.class
+com\sharebooks\repositories\UsuarisRepository.class
+com\sharebooks\ServletInitializer.class
+com\sharebooks\controllers\UsuarisController.class
